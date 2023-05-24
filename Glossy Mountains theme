@@ -1,5 +1,5 @@
 /**
- * @name Glossy Mountains v2
+ * @name Glossy-glass
  * @author Gibbu#1211
  * @version 2.0.0
  * @description Display your picture of choice with adjustable blur and brightness.
@@ -36,11 +36,11 @@
   --middle-brightness: 0.58;
   --right-brightness: 0;
   --overlay-brightness: 0.66;
-  --gradient-primary: 0,188,212;
-  --gradient-secondary: 61,149,160;
+  --gradient-primary: 250,166,35;
+  --gradient-secondary: 183,65,19;
   --link-colour: #00D2FF;
   --scrollbar-colour: rgb(255,255,255,0);
-  --gradient-direction: 0deg;
+  --gradient-direction: 127deg;
   --tint-colour: 255,255,255;
   --tint-brightness: 0;
   --font: Figtree;
