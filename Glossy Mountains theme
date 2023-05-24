@@ -1,6 +1,6 @@
 /**
- * @name Glossy-glass
- * @author Gibbu#1211
+ * @name Aldepix complementary theme
+ * @author Aldepix
  * @version 2.0.0
  * @description Display your picture of choice with adjustable blur and brightness.
  * @source https://github.com/DiscordStyles/FrostedGlass
@@ -17,7 +17,7 @@
 
 :root {
   --background-image: url('https://i.imgur.com/dZ8DVmx.jpg');
-  --background-image-blur: 5px;
+  --background-image-blur: 11px;
   --background-image-size: cover;
   --background-image-position: center;
   --popout-image: url('https://i.imgur.com/EsmWBFe.jpg');
@@ -31,23 +31,20 @@
   --home-button-image: url('https://i.imgur.com/FlLRIpn.jpg');
   --home-button-size: 200%;
   --home-button-position: center;
-  --serverlist-brightness: 0.5;
-  --left-brightness: 0.5;
-  --middle-brightness: 0.58;
-  --right-brightness: 0;
-  --overlay-brightness: 0.66;
-  --gradient-primary: 250,166,35;
-  --gradient-secondary: 183,65,19;
-  --link-colour: #00D2FF;
+  --serverlist-brightness: 0.76;
+  --left-brightness: 0.7;
+  --middle-brightness: 0.44;
+  --right-brightness: 0.14;
+  --overlay-brightness: 0.48;
+  --gradient-primary: 178,161,128;
+  --gradient-secondary: 178,161,128;
+  --link-colour: #01DEF4;
   --scrollbar-colour: rgb(255,255,255,0);
-  --gradient-direction: 127deg;
-  --tint-colour: 255,255,255;
-  --tint-brightness: 0;
+  --gradient-direction: 43deg;
+  --tint-colour: 252,213,190;
+  --tint-brightness: 0.16;
   --font: Figtree;
-  --window-padding: 12px;
-  --window-roundness: 10px;
+  --window-padding: 11px;
+  --window-roundness: 9px;
   --update-notice-1: none;
 }
-
-/* Any custom CSS below here */
-
